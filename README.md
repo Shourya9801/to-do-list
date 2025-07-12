@@ -6,7 +6,7 @@ A modern, responsive, and feature-rich To-Do List web application built using **
 
 ## 🚀 Live Demo
 
-🔗 [Live Website on Github](https://your-netlify-link.netlify.app)
+🔗 [Live Website on Github] (https://shourya9801.github.io/to-do-list/)
 
 > Replace with your actual deployed link
 
